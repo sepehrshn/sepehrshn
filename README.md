@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @sepehrshn
+- 👀 I’m interested in AI and DeepLearning
+- 🌱 I’m currently learning ML
